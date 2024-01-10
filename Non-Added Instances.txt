@@ -1,0 +1,80 @@
+A:
+Instance.new("AdPortal", workspace)
+Instance.new("Animator", workspace)
+Instance.new("Attachment", workspace)
+Instance.new("AdvancedDragger", workspace)
+
+B:
+Instance.new("Bone", workspace)
+
+C:
+(None)
+
+D:
+Instance.new("Dragger", workspace)
+Instance.new("DebuggerWatch", workspace)
+
+E:
+(None)
+
+F:
+FlagStand automatically makes a "TouchedInterest"
+
+G:
+Instance.new("GetTextBoundsParams", workspace)
+
+H:
+Instance.new("Hint", workspace) -- reason for removal is because it's obnoxiously annoying to see that
+
+I:
+(None)
+
+J:
+(None)
+
+L:
+(None)
+
+M:
+Message is empty unless you put text, then therefore it will be shown.
+
+N:
+(None)
+
+O:
+(None)
+
+P:
+Instance.new("Player", workspace) -- doesnt seem to work due to limitations, a player is made by a player on joining.
+Instance.new("PluginAction", workspace) -- another thing that won't work.
+
+Q:
+(None)
+
+R:
+(None)
+
+S:
+(None)
+
+T:
+(None)
+
+U:
+(None)
+
+V:
+(None)
+
+W:
+Instance.new("WrapLayer", workspace)
+Instance.new("WrapTarget", workspace)
+
+X:
+(None)
+
+Y:
+(None)
+
+Z:
+(None)
